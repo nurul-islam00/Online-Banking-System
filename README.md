@@ -1,1 +1,0 @@
-This is an online python based financial technology project. Here the bank's administrator can create new bank account of users, can perform deposit, withdraw etc. It also helps to keep the tracking of proper transaction history of each transaction.
